@@ -1,5 +1,5 @@
 
-FROM gsusmita/my_app
+FROM hcltechuser/azure
 WORKDIR /app
 ARG SCRIPT_NAME
 ENV SCRIPT=${SCRIPT_NAME}
